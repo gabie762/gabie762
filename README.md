@@ -1,14 +1,17 @@
 <h1 align="center">ıılıılı Hello World! ılıılıı</h1>
-<p align="center">
-  <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif" width="525"/>
-</p>
+
 <h2 align="left">💻 > whoami</h2>
 
 <p align="left">╰➤ My name is Gabriela 👩🏽‍💻<br><br>╰➤ CS student at UnB 🎓<br><br>╰➤ Front-end dev from Brazil 💼</p>
 
 <h2 align="left">─ . About me (ദ്ദി˙ᗜ˙)</h2>
 
-<p align="left">°‧   ✨ Creating bugs since 2020<br><br>📚 I'm currently learning Java and C#<br><br>🌱 Ask me about Angular and Web Dev<br><br>💖 I love customization and aesthetics  ·｡</p>
+<p>
+  <p align="left">°‧   ✨ Creating bugs since 2020<br><br>📚 I'm currently learning Java and C#<br><br>🌱 Ask me about Angular and Web Dev<br><br>💖 I love customization and aesthetics  ·｡</p>
+  <p align="center">
+    <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif" width="525"/>
+  </p>
+</p>
 
 <h2 align="left">👾 I code with ₊☕︎٠࣪⋆</h2>
 

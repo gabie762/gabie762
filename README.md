@@ -1,6 +1,6 @@
-<h1 align="center">ılıılıılıılıılı Hello World! ılıılıılıılıılı</h1>
+<h1 align="center">ıılıılı Hello World! ılıılıı</h1>
 <p align="center">
-  <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif"/>
+  <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif" width="350"/>
 </p>
 <h2 align="left">💻 > whoami</h2>
 
@@ -12,7 +12,7 @@
 
 <h2 align="left">👾 I code with ₊☕︎٠࣪⋆</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />

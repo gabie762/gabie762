@@ -1,5 +1,5 @@
 <h1 align="center">ılıılıılıılıılı Hello World! ılıılıılıılıılı</h1>
-<img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" class="center" alt="Pokémon game pixelart gif"/>
+<img align="center" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif"/>
 
 <h2 align="left">💻 > whoami</h2>
 

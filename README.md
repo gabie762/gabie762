@@ -1,5 +1,5 @@
 <h1 align="center">ılıılıılıılıılı Hello World! ılıılıılıılıılı</h1>
-![pokemon](https://github.com/user-attachments/assets/67b876e6-f954-41bd-b67d-bb1cb5f839f2)
+![https://github.com/user-attachments/assets/67b876e6-f954-41bd-b67d-bb1cb5f839f2](https://raw.githubusercontent.com/gabie762/gabie762/refs/heads/main/pokemon.gif)
 
 <h2 align="left">💻 > whoami</h2>
 ###

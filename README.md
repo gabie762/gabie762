@@ -1,5 +1,6 @@
 <h1 align="center">ılıılıılıılıılı Hello World! ılıılıılıılıılı</h1>
-![Gif from Pokémon Black/White with main female character on a route, flowers flying by the screen](https://github.com/gabie762/gabie762/refs/heads/main/pokemon.gif)
+![pokemon](https://github.com/user-attachments/assets/67b876e6-f954-41bd-b67d-bb1cb5f839f2)
+
 <h2 align="left">💻 > whoami</h2>
 ###
 <p align="left">╰➤ My name is Gabriela 👩🏽‍💻<br><br>╰➤ CS student at UnB 🎓<br><br>╰➤ Front-end dev from Brazil 💼</p>

@@ -1,6 +1,6 @@
 <h1 align="center">ıılıılı Hello World! ılıılıı</h1>
 <p align="center">
-  <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif" width="350"/>
+  <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif" width="450"/>
 </p>
 <h2 align="left">💻 > whoami</h2>
 

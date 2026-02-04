@@ -1,6 +1,7 @@
 <h1 align="center">ılıılıılıılıılı Hello World! ılıılıılıılıılı</h1>
-<img align="center" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif"/>
-
+<p align="center">
+  <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif"/>
+</p>
 <h2 align="left">💻 > whoami</h2>
 
 <p align="left">╰➤ My name is Gabriela 👩🏽‍💻<br><br>╰➤ CS student at UnB 🎓<br><br>╰➤ Front-end dev from Brazil 💼</p>

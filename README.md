@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">°‧   ✨ Creating bugs since 2020<br><br>📚 I'm currently learning C# and Java<br><br>🌱 Ask me about Angular and Web Dev<br><br>💖 I love customization and aesthetics  ·｡</p>
+<p align="left">°‧   ✨ Creating bugs since 2020<br><br>📚 I'm currently learning Java and C#<br><br>🌱 Ask me about Angular and Web Dev<br><br>💖 I love customization and aesthetics  ·｡</p>
 
 ###
 

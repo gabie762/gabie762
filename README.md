@@ -1,5 +1,4 @@
 <h1 align="center">ılıılıılıılıılı Hello World! ılıılıılıılıılı</h1>
-![pokemon](https://github.com/user-attachments/assets/a915a030-1997-4c3e-bbad-412a0e66f06e.gif)
 
 <h2 align="left">💻 > whoami</h2>
 ###

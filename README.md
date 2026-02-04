@@ -1,5 +1,5 @@
 <h1 align="center">ılıılıılıılıılı Hello World! ılıılıılıılıılı</h1>
-
+![Gif from Pokémon Black/White with main female character on a route, flowers flying by the screen.](pokemon.gif)
 <h2 align="left">💻 > whoami</h2>
 ###
 <p align="left">╰➤ My name is Gabriela 👩🏽‍💻<br><br>╰➤ CS student at UnB 🎓<br><br>╰➤ Front-end dev from Brazil 💼</p>

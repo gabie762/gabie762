@@ -18,18 +18,17 @@
   </tr>
 </table>
 -->
-<img align="right" width="320" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">
+<img align="right" width="400" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon pixelart">
 
 <pre>
-<code><font color="#d73a49">public class</font> <font color="#6f42c1">Gabriela</font> {
-  String <font color="#005cc5">name</font> = <font color="#032f62">"Gabriela"</font>;
-  String <font color="#005cc5">university</font> = <font color="#032f62">"UnB"</font>;
-  String <font color="#005cc5">focus</font> = <font color="#032f62">"Front-end"</font>;
-  
-  <font color="#d73a49">public void</font> <font color="#6f42c1">currentGoal</font>() {
-    <font color="#6f42c1">learn</font>(<font color="#032f62">"Java", "C#"</font>);
-  }
-}</code></pre>
+<code><font color="#d73a49">const</font> <font color="#6f42c1">gabriela</font> = {
+  name: <font color="#22863a">"Gabriela"</font>,
+  university: <font color="#22863a">"UnB 🎓"</font>,
+  role: <font color="#22863a">"Front-end Developer 💼"</font>,
+  location: <font color="#22863a">"Brazil 🇧🇷"</font>,
+  status: <font color="#22863a">"Learning Java & C#"</font>,
+  motto: <font color="#22863a">"Creating bugs since 2020"</font>
+};</code></pre>
 
 <br clear="right">
 

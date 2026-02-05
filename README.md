@@ -18,19 +18,27 @@
   </tr>
 </table>
 -->
-<img align="right" width="400" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon pixelart">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="middle">
 
-<pre>
-<code><font color="#d73a49">const</font> <font color="#6f42c1">gabriela</font> = {
-  name: <font color="#22863a">"Gabriela"</font>,
-  university: <font color="#22863a">"UnB 🎓"</font>,
-  role: <font color="#22863a">"Front-end Developer 💼"</font>,
-  location: <font color="#22863a">"Brazil 🇧🇷"</font>,
-  status: <font color="#22863a">"Learning Java & C#"</font>,
-  motto: <font color="#22863a">"Creating bugs since 2020"</font>
-};</code></pre>
+```javascript
+const gabriela = {
+  name: "Gabriela",
+  university: "UnB 🎓",
+  role: "Front-end Developer 💼",
+  location: "Brazil 🇧🇷",
+  status: "Learning Java & C#",
+  motto: "Creating bugs since 2020"
+};
+```
 
-<br clear="right">
+</td>
+<td valign="middle">
+<img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" width="350">
+</td>
+</tr>
+</table>
 
 <!--
 <img align="right" width="425" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">

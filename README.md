@@ -6,12 +6,22 @@
 
 <h2 align="left">─ . About me (ദ്ദി˙ᗜ˙)</h2>
 
-<div class="container">
-  <p align="left">°‧   ✨ Creating bugs since 2020<br><br>📚 I'm currently learning Java and C#<br><br>🌱 Ask me about Angular and Web Dev<br><br>💖 I love customization and aesthetics  ·｡</p>
-  <p align="center">
-    <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif" alt="Pokémon game pixelart gif" width="525"/>
-  </p>
-</div>
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="left">
+        <br>
+        °‧ ✨ Creating bugs since 2020<br><br>
+        📚 I'm currently learning Java and C#<br><br>
+        🌱 Ask me about Angular and Web Dev<br><br>
+        💖 I love customization and aesthetics ·｡
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="350"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">👾 I code with ₊☕︎٠࣪⋆</h2>
 

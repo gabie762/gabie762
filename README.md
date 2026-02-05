@@ -8,12 +8,12 @@
       <p align="left">
         <br>
         ╰➤ My name is Gabriela 👩🏽‍💻<br><br>
-        ╰➤ CS student at UnB 🎓<br><br>
+        ╰➤ Computer Science student at UnB 🎓<br><br>
         ╰➤ Front-end dev from Brazil 💼
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="500"/>
+      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="450"/>
     </td>
   </tr>
 </table>

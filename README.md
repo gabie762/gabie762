@@ -6,9 +6,9 @@
 
 <p align="center" text-align="center">
   <br><br><br>
-    ╰➤ My name is Gabriela 👩🏽‍💻<br><br>
-    ╰➤ Computer Science student at UnB 🎓<br><br>
-    ╰➤ Front-end dev from Brazil 💼
+    ╰➤ My name is <b>Gabriela</b> 👩🏽‍💻<br><br>
+    ╰➤ <b>Computer Science student</b> at <b><a href="https://www.unb.br/">UnB</a></b> 🎓<br><br>
+    ╰➤ <b>Front-end dev</b> from <b>Brazil</b> 💼
 </p>
 
 <br clear="right">

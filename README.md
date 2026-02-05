@@ -18,6 +18,25 @@
   </tr>
 </table>
 -->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td valign="middle">
+      <pre align="left">
+<code>const gabriela = {
+  education: "CS Student @ UnB 🎓",
+  role: "Front-end Developer 💼",
+  location: "Brazil 🇧🇷",
+  status: "Learning Java & C#",
+  motto: "Creating bugs since 2020"
+};</code></pre>
+    </td>
+    <td valign="middle">
+      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon pixelart" width="400"/>
+    </td>
+  </tr>
+</table>
+
+<!--
 <img align="right" width="425" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">
 
 <p align="center">
@@ -28,7 +47,7 @@
 </p>
 
 <br clear="right">
-
+-->
 <h2 align="left">─ . About me (ദ്ദി˙ᗜ˙)</h2>
 
 <p align="left">

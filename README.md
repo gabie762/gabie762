@@ -2,7 +2,7 @@
 
 <h2 align="left">💻 > whoami</h2>
 
-<table border="0" align="center">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td width="55%" valign="center">
       <p align="left">

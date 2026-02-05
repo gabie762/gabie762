@@ -18,10 +18,13 @@
   </tr>
 </table>
 -->
-<img align="right" width="400" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">
+<img align="right" width="425" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">
 
 <p align="center">
-  <br><br><br> ╰➤ Hi! My name is Gabriela, I am a Computer Science student at UnB and Front-End Dev from Brazil!<br><br>
+  <br>
+    ╰➤ My name is Gabriela 👩🏽‍💻<br><br>
+    ╰➤ Computer Science student at UnB 🎓<br><br>
+    ╰➤ Front-end dev from Brazil 💼
 </p>
 
 <br clear="right">

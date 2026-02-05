@@ -17,8 +17,8 @@
 <img align="right" width="425" src="https://github.com/gabie762/gabie762/blob/main/assets/hilda.gif?raw=true"></img>
 
 <p align="center" text-align="center">
-        <br><br><br><br>
-        °‧ ✨ Creating bugs since 2020<br><br>
+        <br><br><br>
+        °‧ ✨ Creating bugs since <b>2020</b><br><br>
         📚 I'm currently learning <b>Java</b><br><br>
         🌱 Ask me about <b>Angular</b> and Web Dev<br><br>
         💖 I love <b>customization</b> and aesthetics<br><br>

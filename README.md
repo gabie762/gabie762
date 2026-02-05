@@ -7,8 +7,8 @@
 <p align="center" text-align="center">
   <br><br><br>
     ╰➤ My name is <b>Gabriela</b> 👩🏽‍💻<br><br>
-    ╰➤ <b>Front-end</b> Developer based in <b>Brazil</b> 💼
-    ╰➤ <b>Computer Science</b> student at <b><a href="https://www.unb.br/">University of Brasília</a></b> 🎓<br><br>
+    ╰➤ <b>Front-end</b> Developer based in <b>Brazil</b> 💼<br><br>
+    ╰➤ <b>Computer Science</b> student at <b><a href="https://www.unb.br/">University of Brasília</a></b> 🎓
 </p>
 
 <br clear="right">

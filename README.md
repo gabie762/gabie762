@@ -18,24 +18,24 @@
   </tr>
 </table>
 -->
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" align="center">
 <tr>
 <td valign="middle">
 
 ```javascript
 const gabriela = {
   name: "Gabriela",
-  university: "UnB 🎓",
+  university: "CSUnB 🎓",
   role: "Front-end Developer 💼",
   location: "Brazil 🇧🇷",
-  status: "Learning Java & C#",
+  status: "Learning Java",
   motto: "Creating bugs since 2020"
 };
 ```
 
 </td>
 <td valign="middle">
-<img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" width="350">
+<img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" width="400">
 </td>
 </tr>
 </table>

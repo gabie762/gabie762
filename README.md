@@ -18,23 +18,20 @@
   </tr>
 </table>
 -->
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td valign="middle">
-      <pre align="left">
-<code>const gabriela = {
-  education: "CS Student @ UnB 🎓",
-  role: "Front-end Developer 💼",
-  location: "Brazil 🇧🇷",
-  status: "Learning Java & C#",
-  motto: "Creating bugs since 2020"
-};</code></pre>
-    </td>
-    <td valign="middle">
-      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon pixelart" width="400"/>
-    </td>
-  </tr>
-</table>
+<img align="right" width="320" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">
+
+<pre>
+<code><font color="#d73a49">public class</font> <font color="#6f42c1">Gabriela</font> {
+  String <font color="#005cc5">name</font> = <font color="#032f62">"Gabriela"</font>;
+  String <font color="#005cc5">university</font> = <font color="#032f62">"UnB"</font>;
+  String <font color="#005cc5">focus</font> = <font color="#032f62">"Front-end"</font>;
+  
+  <font color="#d73a49">public void</font> <font color="#6f42c1">currentGoal</font>() {
+    <font color="#6f42c1">learn</font>(<font color="#032f62">"Java", "C#"</font>);
+  }
+}</code></pre>
+
+<br clear="right">
 
 <!--
 <img align="right" width="425" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">

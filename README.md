@@ -13,7 +13,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="450"/>
+      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="425"/>
     </td>
   </tr>
 </table>

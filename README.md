@@ -4,7 +4,7 @@
 
 <img align="right" width="425" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">
 
-<p align="center">
+<p align="center" text-align="center">
   <br>
     ╰➤ My name is Gabriela 👩🏽‍💻<br><br>
     ╰➤ Computer Science student at UnB 🎓<br><br>

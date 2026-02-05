@@ -4,7 +4,7 @@
 
 <table border="0" align="center">
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="center">
       <p align="left">
         <br>
         ╰➤ My name is Gabriela 👩🏽‍💻<br><br>

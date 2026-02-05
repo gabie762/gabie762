@@ -1,7 +1,7 @@
 <h1 align="center">ıılıılı Hello World! ılıılıı</h1>
 
 <h2 align="left">💻 > whoami</h2>
-
+<!--
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td width="55%" valign="center">
@@ -17,6 +17,16 @@
     </td>
   </tr>
 </table>
+-->
+<img align="right" width="350" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">
+
+<p align="center">
+  <br><br><br> ╰➤ My name is Gabriela 👩🏽‍💻<br><br>
+  ╰➤ CS student at UnB 🎓<br><br>
+  ╰➤ Front-end dev from Brazil 💼
+</p>
+
+<br clear="right"> ```
 
 <h2 align="left">─ . About me (ദ്ദി˙ᗜ˙)</h2>
 

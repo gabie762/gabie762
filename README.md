@@ -2,7 +2,7 @@
 
 <h2 align="left">💻 > whoami</h2>
 
-<table border="0">
+<table border="0" align="center">
   <tr>
     <td width="55%" valign="top">
       <p align="left">
@@ -13,7 +13,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="400"/>
+      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="500"/>
     </td>
   </tr>
 </table>

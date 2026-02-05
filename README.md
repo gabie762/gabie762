@@ -2,27 +2,32 @@
 
 <h2 align="left">💻 > whoami</h2>
 
-<p align="left">╰➤ My name is Gabriela 👩🏽‍💻<br><br>╰➤ CS student at UnB 🎓<br><br>╰➤ Front-end dev from Brazil 💼</p>
-
-<h2 align="left">─ . About me (ദ്ദി˙ᗜ˙)</h2>
-
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <p align="left">
         <br>
-        °‧ ✨ Creating bugs since 2020<br><br>
-        📚 I'm currently learning Java and C#<br><br>
-        🌱 Ask me about Angular and Web Dev<br><br>
-        💖 I love customization and aesthetics ·｡
+        ╰➤ My name is Gabriela 👩🏽‍💻<br><br>
+        ╰➤ CS student at UnB 🎓<br><br>
+        ╰➤ Front-end dev from Brazil 💼
       </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="350"/>
+    <td width="45%" align="center">
+      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="400"/>
     </td>
   </tr>
 </table>
 
+<h2 align="left">─ . About me (ദ്ദി˙ᗜ˙)</h2>
+
+<p align="left">
+        <br>
+        °‧ ✨ Creating bugs since 2020<br><br>
+        📚 I'm currently learning Java<br><br>
+        🌱 Ask me about Angular and Web Dev<br><br>
+        💖 I love customization and aesthetics ·｡
+</p>
+    
 <h2 align="left">👾 I code with ₊☕︎٠࣪⋆</h2>
 
 <div align="center">

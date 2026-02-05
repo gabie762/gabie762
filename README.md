@@ -19,9 +19,10 @@
 <p align="center" text-align="center">
         <br><br><br><br>
         °‧ ✨ Creating bugs since 2020<br><br>
-        📚 I'm currently learning Java<br><br>
-        🌱 Ask me about Angular and Web Dev<br><br>
-        💖 I love customization and aesthetics ·｡
+        📚 I'm currently learning <b>Java</b><br><br>
+        🌱 Ask me about <b>Angular</b> and Web Dev<br><br>
+        💖 I love <b>customization</b> and aesthetics<br><br>
+        ⚡ Fun fact: I love to play Pokémon ·｡
 </p>
 <br clear="right">
 

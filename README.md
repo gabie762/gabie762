@@ -1,46 +1,7 @@
 <h1 align="center">ıılıılı Hello World! ılıılıı</h1>
 
 <h2 align="left">💻 > whoami</h2>
-<!--
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td width="55%" valign="center">
-      <p align="left">
-        <br>
-        ╰➤ My name is Gabriela 👩🏽‍💻<br><br>
-        ╰➤ Computer Science student at UnB 🎓<br><br>
-        ╰➤ Front-end dev from Brazil 💼
-      </p>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" alt="Pokémon game pixelart gif" width="425"/>
-    </td>
-  </tr>
-</table>
--->
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-<tr>
-<td valign="middle">
 
-```javascript
-const gabriela = {
-  name: "Gabriela",
-  university: "CSUnB 🎓",
-  role: "Front-end Developer 💼",
-  location: "Brazil 🇧🇷",
-  status: "Learning Java",
-  motto: "Creating bugs since 2020"
-};
-```
-
-</td>
-<td valign="middle">
-<img src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true" width="400">
-</td>
-</tr>
-</table>
-
-<!--
 <img align="right" width="425" src="https://github.com/gabie762/gabie762/blob/main/assets/pokemon.gif?raw=true">
 
 <p align="center">
@@ -51,7 +12,7 @@ const gabriela = {
 </p>
 
 <br clear="right">
--->
+
 <h2 align="left">─ . About me (ദ്ദി˙ᗜ˙)</h2>
 
 <p align="left">
